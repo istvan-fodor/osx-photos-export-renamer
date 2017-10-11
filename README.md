@@ -1,5 +1,5 @@
 # osx-photos-export-renamer
-Utility for renaming OSX Photos export folders from moment name to date sortable name. 
+Utility for renaming OSX Photos export folders from moment name to a format where alphabetical sorting equals soring by date (YYYY-MM-DD, location). 
 
 ### Usage
 
