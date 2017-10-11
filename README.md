@@ -16,3 +16,6 @@ positional arguments:
 optional arguments:
   -h, --help  show this help message and exit
 ```
+### Disclaimer
+This utility has only been tested with export directories only containing the exported images, each within its own folder named after the "moment".
+
