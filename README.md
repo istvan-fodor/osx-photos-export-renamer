@@ -19,3 +19,12 @@ optional arguments:
 ### Disclaimer
 This utility has only been tested with export directories only containing the exported images, each within its own folder named after the "moment".
 
+### Example 
+
+The following table shows example renames. FROM has the original directory name (moment name), TO has the result of the rename (date and alhbabetical sort is the same)
+
+| FROM                                              | TO                                           |
+|---------------------------------------------------|----------------------------------------------|
+| Chicago - Edison Park - Illinois, October 1, 2017 | 2017-10-01, Chicago - Edison Park - Illinois |
+| October 4, 2017                                   | 2017-10-04                                   |
+
